@@ -1,0 +1,38 @@
+/* 导航开始 begin */
+.nav {
+	height: 80px;
+	background: #000;
+}
+.n-center {
+	height: 80px;
+}
+
+/* logo begin */
+.nav .n-center .logo {
+	width: 214px;
+	height: 116px;
+	background: url(../imgs/yxlm-logo.png) no-repeat;
+	margin-top: 8px;
+	text-indent: -9999em;
+	position: absolute;
+}
+/* logo end */
+
+/* 导航 begin*/
+.nav .n-center .nav-1 li {
+	 float: left;
+	 width: 144px;
+	 height: 54px;
+	 font-size: 16px;
+	 padding-top: 26px;
+	 text-align: center;
+}
+.nav .n-center .nav-1 li a {
+	color: #fff;
+}
+.nav .n-center .nav-1 li span {
+	font-size: 10px;
+	color: #575757;
+}
+/* 导航 end*/
+/* 导航开始 end */
